@@ -1,0 +1,8 @@
+{
+	"disableAutoUpdate": false,
+	"name": "game-state",
+	"author": "AnEmanator, Caali",
+	"description": "Tracks the game's current state and provides a high-level API for developers to base their mods on.",
+	"version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/AnEmanator/game-state/main/"]
+}
