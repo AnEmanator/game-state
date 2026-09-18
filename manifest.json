@@ -13,9 +13,9 @@
 		"lib/glyphs.js": "0c3c5e48f39fadc6ac0189712f78d2557e18eaaae967044758cd89a42bbd59d2",
 		"lib/inventory.js": "85446f663728bb26117d0fc30f95f486fc33ff50e5e4ca60158befd0b263fd89",
 		"lib/me.js": "06ccd7e6aa10f175607f4671c3b6bd7aeb7000a7f6da473fecbdf8394e74e28e",
-		"lib/party.js": "893db95e16043df3c362d64410539c90014039571b19e1795cb0094f6ff6bcee",
+		"lib/party.js": "84955347ee23c8773bef34da7147bb38141c33b46cdbc17d596173395154e5e9",
 		"lib/talents.js": "82364a1f92e7e82eb594c1d707ada0435117c0baf2172d7871da1e8c598a061c",
-		"module.json": "58a44552deaaf52caf160d78ebee62451b85aac4b8840080f85f27ab32ce4621"
+		"module.json": "901de56148602d2d7e0d4bc0a949b5fd41b9fdbfb682195da0d596009703fe95"
 	},
 	"defs": {
 		"C_LOGIN_ARBITER": 2,
@@ -39,7 +39,7 @@
 		"S_REQUEST_CONTRACT": [1,2],
 		"S_RESET_EP_PERK": 1,
 		"S_SPAWN_ME": 3,
-		"S_SPAWN_USER": [15,17],
+		"S_SPAWN_USER": [15,16,17],
 		"S_UNMOUNT_VEHICLE": 2,
 		"S_USER_CHANGE_NAME": 1,
 		"S_USER_LEVELUP": 2,
